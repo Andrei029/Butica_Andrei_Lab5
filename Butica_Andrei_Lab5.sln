@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Butica_Andrei_Lab5", "Butica_Andrei_Lab5.csproj", "{ECD41380-547F-47E5-A7CE-FD239C03B206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGeistModel", "AutoGeistModel\AutoGeistModel.csproj", "{8E577556-C9CC-4FC2-8D3D-7B7BE9D210CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD41380-547F-47E5-A7CE-FD239C03B206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD41380-547F-47E5-A7CE-FD239C03B206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD41380-547F-47E5-A7CE-FD239C03B206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD41380-547F-47E5-A7CE-FD239C03B206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E577556-C9CC-4FC2-8D3D-7B7BE9D210CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E577556-C9CC-4FC2-8D3D-7B7BE9D210CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E577556-C9CC-4FC2-8D3D-7B7BE9D210CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E577556-C9CC-4FC2-8D3D-7B7BE9D210CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE14F282-643B-4262-8F0C-72BBE131C321}
+	EndGlobalSection
+EndGlobal
